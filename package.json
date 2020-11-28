@@ -1,11 +1,12 @@
 {
   "name": "react-native-modal-swipe",
   "title": "React Native Modal Swipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Modal component is a basic way to present content above an enclosing view",
   "main": "index.js",
   "files": [
     "README.md",
+    "Components",
     "android",
     "index.js",
     "ios",
@@ -30,13 +31,9 @@
     "simple",
     "animated"
   ],
-  "author": {
-    "name": "Subhodip Deti",
-    "email": "subhodipdeti1414@email.com"
-  },
+  "author": "Subhodip Deti <subhodipdeti1414@email.com>",
   "license": "MIT",
   "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.8.1",
     "react-native": ">=0.60.0-rc.0 <1.0.x"
@@ -47,5 +44,9 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Subhodipdeti/react-native-modal-swipe/issues"
+  },
+  "homepage": "https://github.com/Subhodipdeti/react-native-modal-swipe#readme"
 }
