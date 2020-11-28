@@ -89,7 +89,7 @@ export default class ModalSwipe extends React.Component {
     }
 }
 
-App.defaultProps = {
+ModalSwipe.defaultProps = {
     visible: false,
     borderRadius: 10,
     onClose: () => { },
@@ -97,7 +97,7 @@ App.defaultProps = {
     backgroundColor: 'rgba(255, 146, 43, 0.8)'
 };
 
-App.propTypes = {
+ModalSwipe.propTypes = {
     visible: PropTypes.bool,
     onClose: PropTypes.func,
     borderRadius: PropTypes.number,

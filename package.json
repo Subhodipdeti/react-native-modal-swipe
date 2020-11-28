@@ -1,7 +1,7 @@
 {
   "name": "react-native-modal-swipe",
   "title": "React Native Modal Swipe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Modal component is a basic way to present content above an enclosing view",
   "main": "index.js",
   "files": [
