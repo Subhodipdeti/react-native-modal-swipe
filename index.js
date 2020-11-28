@@ -1,1 +1,2 @@
-export { default as ModalSwipe } from './Components/ModalSwipe/ModalSwipe';
+import ModalSwipe from './Components/ModalSwipe/ModalSwipe';
+export default ModalSwipe;
