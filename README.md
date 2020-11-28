@@ -1,5 +1,8 @@
 # react-native-modal-swipe
 
+![npm version](https://img.shields.io/npm/v/react-native-modal-swipe)
+[![npm downloads](https://img.shields.io/npm/dw/react-native-modal-swipe)](https://www.npmjs.com/package/react-native-modal-swipe)
+
 ## Getting started
 
 `$ npm install react-native-modal-swipe --save`

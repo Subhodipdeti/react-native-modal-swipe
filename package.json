@@ -2,7 +2,7 @@
   "name": "react-native-modal-swipe",
   "title": "React Native Modal Swipe",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "The Modal component is a basic way to present content above an enclosing view",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,15 +16,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-modal-swipe.git",
-    "baseUrl": "https://github.com/github_account/react-native-modal-swipe"
+    "url": "git+https://github.com/Subhodipdeti/react-native-modal-swipe.git",
+    "baseUrl": "https://github.com/Subhodipdeti/react-native-modal-swipe"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react",
+    "native",
+    "modal",
+    "android",
+    "ios",
+    "backdrop",
+    "simple",
+    "animated"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Subhodip Deti",
+    "email": "subhodipdeti1414@email.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
